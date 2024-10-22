@@ -1,4 +1,4 @@
-# Tariffinder
+# Tarifsucher
 
 ### Install Dependencies
 
